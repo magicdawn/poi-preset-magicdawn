@@ -4,7 +4,7 @@
   "description": "poi preset for self use",
   "main": "index.js",
   "scripts": {
-    "test": "poi test",
+    "test": "mocha",
     "test-cover": "istanbul cover _mocha -- -u exports",
     "report-cover": "codecov"
   },
