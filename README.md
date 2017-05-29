@@ -1,4 +1,6 @@
 # poi-preset-magicdawn
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/poi-preset-magicdawn.svg)](https://greenkeeper.io/)
 > [poi](https://github.com/egoist/poi) preset for self use
 
 [![Build Status](https://img.shields.io/travis/magicdawn/poi-preset-magicdawn.svg?style=flat-square)](https://travis-ci.org/magicdawn/poi-preset-magicdawn)
